@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Spice Jet Automation" skipped="0" tests="1" time="0.16" timestamp="2021-10-294 11:48:02"><testcase name="To validate if available flights appear with the selected choices"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+util.Config.getBaseUrl(Config.java:17)&#13;
+pages.SearchFlightsPage.launchUrl(SearchFlightsPage.java:11)&#13;
+steps.SearchFlightSteps.the_user_launches_the_url(SearchFlightSteps.java:12)&#13;
+✽.Given the user launches the url(SpiceJet.feature:4)&#13;
+</system-err></testcase></testsuite>
